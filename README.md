@@ -229,3 +229,5 @@ This repository reflects **how modern DevOps & SRE teams operate in large, missi
 
 ## 📄 License
 Mostefaoui Nadjim
+![Architecture](https://github.com/user-attachments/assets/bfd2648a-971c-4f0e-abe1-6ea157aa6d11)
+
